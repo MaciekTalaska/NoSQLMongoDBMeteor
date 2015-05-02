@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "NoSQL+MongoDB+Meteor",
+    "packageVersion": "1.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "MaciekTalaska",
+    "githubRepository": "NoSQLMongoDBMeteor"
+  }
+}
