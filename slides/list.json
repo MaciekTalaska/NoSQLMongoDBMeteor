@@ -21,7 +21,16 @@
     "mongodb-restrictions.md",
     "mongodb-gridfs.md",
     "mongodb-data-modelling.md",
+    [
     "mongodb-transactions.md",
+    "transaction-1.md",
+    "transaction-2.md",
+    "transaction-3.md",
+    "transaction-4.md",
+    "transaction-5.md",
+    "transaction-6.md",
+    "transaction-7.md"
+    ],
     "mongodb-like-mysql.md",
     "mongodb-locking.md",
     "mongodb-replication.md",

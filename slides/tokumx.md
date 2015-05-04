@@ -2,6 +2,7 @@
 
 * Alternate engine for MongoDB
 * offers better performance
+* claims to offer ACID
 * compression
 * uses Fractal Tree indexing
 * its oplog format is not compatible with MMapV1
