@@ -2,6 +2,9 @@
     "index.md",
     "agenda.md",
     "bigdata.md",
+    "bigdata-data-growth.md",
+    "bigdata-data-growth2.md",
+    "bigdata-data-growth3.md",
     "cap-theorem.md",
     "nosql.md",
     "nosql-storages.md",
@@ -12,6 +15,6 @@
     "mongodb.md",
     "mongodb-docuemnt-database.md",
     "bson-json.md",
-    "why-schema.md",
+    "mongodb-schema.md",
     "data-modelling.md"
 ]
