@@ -1,10 +1,11 @@
 
-# NoSQL+MongoDB+Meteor
+# NoSQL + MongoDB + MeteorJS
 
-From the terminal, pop in:
+<p>by</p>
 
-  ```yo reveal:slide "Slide Title"```
+Maciej Talaśka
 
-Available options:
 
- ```--markdown --attributes --notes```
+@MaciekTalaska
+
+maciek.talaska@gmail.com
