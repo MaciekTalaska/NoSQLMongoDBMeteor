@@ -1,13 +1,9 @@
 ##  NoSQL storages
 
-### Document databases
+#### Document databases
 
-### Key-Value
+#### Key-Value
 
-### Tabular
+#### Tabular
 
-### Graph databases
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+#### Graph databases

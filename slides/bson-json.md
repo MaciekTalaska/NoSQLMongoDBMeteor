@@ -1,7 +1,7 @@
 ##  BSON != JSON
 
-This is a new Markdown slide
+* BSON = binary JSON
+* provides additioanl data types
+ * date
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

@@ -1,5 +1,5 @@
 ##  Why schema?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+if it is so flexible, how it works?
+why we need schema? do we need it?

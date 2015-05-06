@@ -1,6 +1,10 @@
 ##  Data modelling
 
+* arrays, nested objects
+* DE-normalize!
+* relations?
+* reference data?
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+denormalize for use cases;
+reference data = cached?

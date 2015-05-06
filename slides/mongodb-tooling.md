@@ -5,7 +5,3 @@
 
 * robomongo
 * breinero/Firehose - multithreaded import/export utility
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.

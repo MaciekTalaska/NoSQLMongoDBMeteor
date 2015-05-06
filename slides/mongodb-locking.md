@@ -4,7 +4,8 @@
 * new MMapV1 (3.x+)
 * WiredTiger
 note:
-    old uses db locking
-    new uses collection locking
-    WiredTiger uses optimistic locking on a document level
-    locking is not as long as for RDBMs
+
+old uses db locking</br>
+new uses collection locking</br>
+WiredTiger uses optimistic locking on a document level</br>
+locking is not as long as for RDBMs</br>

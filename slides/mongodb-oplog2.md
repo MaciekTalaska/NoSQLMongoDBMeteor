@@ -16,7 +16,7 @@
 ```
 source: https://blog.compose.io/the-mongodb-oplog-and-node-js/
 note:
-ts - timestamp; h - id of an operation; v - version of oplog format
-op - i/u/d c/db (database) n=no-op
-o/o2 - for update
+ts - timestamp; h - id of an operation; v - version of oplog format</br>
+op - i/u/d c/db (database) n=no-op</br>
+o/o2 - for update</br>
 

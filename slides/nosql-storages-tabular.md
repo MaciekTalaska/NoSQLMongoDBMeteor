@@ -1,8 +1,4 @@
-##  NoSQL storages - tabular
+## Tabular Storages 
 
-### Cassandra
-### Google's BigTable
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+#### Cassandra
+#### Google's BigTable

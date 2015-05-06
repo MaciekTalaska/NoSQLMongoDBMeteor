@@ -12,5 +12,7 @@ BigData is 3d (3v):
  * Veracity
 
 note:
-  Variability = 
-  Veracity = 
+Variability = quantity of data
+Velocity = speed of data generation
+Variability = inconsistency of data
+Veracity = difference in the quality of the data captured

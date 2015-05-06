@@ -8,7 +8,3 @@
 * max 2^32 documents in capped collection
 * DB size < 8TB/32TB
 * DB name != '' && len(DB name) < 64b
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
