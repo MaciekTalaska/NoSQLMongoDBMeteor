@@ -22,19 +22,21 @@
     "mongodb-gridfs.md",
     "mongodb-data-modelling.md",
     [
-    "mongodb-transactions.md",
-    "transaction-1.md",
-    "transaction-2.md",
-    "transaction-3.md",
-    "transaction-4.md",
-    "transaction-5.md",
-    "transaction-6.md",
-    "transaction-7.md"
+        "mongodb-transactions.md",
+        "transaction-1.md",
+        "transaction-2.md",
+        "transaction-3.md",
+        "transaction-4.md",
+        "transaction-5.md",
+        "transaction-6.md",
+        "transaction-7.md",
+        "mongodb-update-if-current.md"
     ],
     "mongodb-like-mysql.md",
     "mongodb-locking.md",
     "mongodb-replication.md",
     "mongodb-oplog.md",
+    "mongodb-oplog2.md",
     "mongodb-sharding.md",
     "mongodb-range-partitioning.md",
     "mongodb-hash-partitioning.md",
@@ -43,5 +45,12 @@
     "mongodb3.md",
     "tokumx.md",
     "mongodb-tooling.md",
-    "mongodb-demo.md"
+    "mongodb-demo.md",
+    "meteor.md",
+    "meteor-another-framework.md",
+    "meteor-what-is-so-special.md",
+    "meteor-what-to-use-it-for.md",
+    "meteor-when-not-to-use-it.md",
+    "meteor-live-demo.md",
+    "meteor-resources.md"
 ]
