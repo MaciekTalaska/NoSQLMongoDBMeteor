@@ -1,6 +1,6 @@
 ##  CAP theorem
 
-<img src="../images/captheorem.png"/>
+<img src="images/captheorem.png"/>
 
 source: http://blog.flux7.com/blogs/nosql/cap-theorem-why-does-it-matter 
 
