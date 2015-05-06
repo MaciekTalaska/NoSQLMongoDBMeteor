@@ -1,10 +1,8 @@
 ##  CAP theorem
 
- ### Consistency
- ### Availability
- ### Partition tolerance
+<img src="../images/captheorem.png"/>
 
- and you may choose any 2 :)
+source: http://blog.flux7.com/blogs/nosql/cap-theorem-why-does-it-matter 
 
 note:
   consistency = all nodes see same data
